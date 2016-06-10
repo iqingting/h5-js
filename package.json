@@ -1,0 +1,23 @@
+{
+  "name": "h5-js",
+  "version": "1.0.0",
+  "description": "use elemecdn to inject private code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rguanghui/h5-js.git"
+  },
+  "author": "eleme.h5",
+  "license": "ISC",
+  "dependencies": {
+    "h5-menuview": "github:eleme/h5-menuview#0.3.1",
+    "h5-cartview": "github:eleme/h5-cartview#0.4.1"
+  },
+  "bugs": {
+    "url": "https://github.com/rguanghui/h5-js/issues"
+  },
+  "homepage": "https://github.com/rguanghui/h5-js#readme"
+}
